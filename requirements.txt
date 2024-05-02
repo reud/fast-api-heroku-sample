@@ -1,5 +1,5 @@
 Click==7.0
-dnspython==1.16.0
+dnspython==2.6.1
 email-validator==1.0.4
 fastapi==0.109.1
 h11==0.8.1
