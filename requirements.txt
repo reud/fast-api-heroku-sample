@@ -6,7 +6,7 @@ h11==0.16.0
 httptools==0.0.13
 idna==3.7
 pydantic==1.10.13
-starlette==0.40.0
+starlette==0.47.2
 uvicorn==0.11.7
 uvloop==0.12.2
 websockets==9.1
